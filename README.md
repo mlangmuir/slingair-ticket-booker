@@ -2,7 +2,7 @@
 
 This was my first project using the MongoDB database. The ticket booker allows users to book one of 8 flights from Canadian cities to Honolulu. For each booking, the availability of the seats gets updated and recorded in the database.
 
-A demo of this project can be found at the following link: 
+A demo of this project can be found at the following link: https://www.youtube.com/watch?v=iyu7ZcsxeZs&ab_channel=MatthewLangmuir
 
 ## Development
 
