@@ -12,4 +12,7 @@ Access directory by entering`cd frontend`. Then, download yarn by simply typing 
 ### Backend
 Enter the following in the terminal to run proxy on port 8000: `cd backend`, `yarn dev:backend`
 
+### Batch import to MongoDB
+The seat and flight data needs to be imported to the database. In the server folder, run `node << drag batchImport.js file in here >>
+
 ![Getting Started](./assets/slingair-screenshot.png)
